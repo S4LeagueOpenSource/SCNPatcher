@@ -1,0 +1,11 @@
+{
+	"name": "S4LeagueSCNPatcher",
+	"description": "Patch SCN Files to the old Patch 9 S4 League.",
+	"author": "S4LeagueOpenSource",
+	"dependencies" : {
+		"async": "2.0.0-rc.2",
+		"colors": "1.1.2",
+		"int53": "0.2.4",
+		"smart-buffer": "1.0.3"
+	}
+}
